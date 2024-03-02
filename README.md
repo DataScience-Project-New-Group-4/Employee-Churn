@@ -19,8 +19,10 @@ For this project we would:
 Click here to access the Dataset for this project: "(https://www.kaggle.com/datasets/shengyaoye/wa-fn-usec-hr-employee-attrition)"
 
 **Importing Libraries**
+![import _lib](https://github.com/DataScience-Project-New-Group-4/Employee-Churn/assets/136507704/a666dc2e-9843-4f3b-8e09-3048a499e703)
 
 **Exploratory Data Analysis**
+![Exploration](https://github.com/DataScience-Project-New-Group-4/Employee-Churn/assets/136507704/4da7549a-e462-40e6-b812-8161a6ae99a4)
 
 **Questions To be Solved**
 
@@ -46,6 +48,7 @@ Click here to access the Dataset for this project: "(https://www.kaggle.com/data
 
 
 **Buidling Models**
+![Model_Build](https://github.com/DataScience-Project-New-Group-4/Employee-Churn/assets/136507704/64851715-4162-4040-b523-787c76d1a12e)
 
 **Confusion Matrix for Logistic Regression
 
