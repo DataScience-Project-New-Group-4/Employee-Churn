@@ -1,4 +1,4 @@
-**Employee-Churn Rate**
+**Predicting Employee-Churn Rate**
 ![ML_png](https://github.com/DataScience-Project-New-Group-4/Employee-Churn/assets/136507704/937e30b9-d38f-49dd-b89e-8e8a05b35b59)
 
 **Introduction**
@@ -16,7 +16,7 @@ For this project we would:
 
 **Dataset Used for this Project**
 
-Click here to access the Dataset for this project: "/content/WA_Fn-UseC_-HR-Employee-Attrition.csv"
+Click here to access the Dataset for this project: "(https://www.kaggle.com/datasets/shengyaoye/wa-fn-usec-hr-employee-attrition)"
 
 **Importing Libraries**
 
