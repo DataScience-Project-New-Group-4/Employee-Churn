@@ -11,7 +11,7 @@ Employee churn leads to reduction in the head count of workforce, it increases c
 However, understanding and managing employee churn rate positively impacts business and workforce performance, growth and productivity as this would increase employee retention and ensure business continuity. 
 For this project we would:
 1.	Ascertain Key indicators of an employee leaving the organization.
-2.	Predict why and when employees can most likely leave the organization. 
+2.	Predict why and when employees may most likely leave the organization. 
 3.	Recommend strategies to implore to ensure or improve employee retention
 
 **Dataset Used for this Project**
@@ -34,7 +34,7 @@ Click here to access the Dataset for this project: "(https://www.kaggle.com/data
 
 4. What is the ratio or precentage of hiring to retention?
 
-5. What age bracket or gender churns?
+5. What age bracket or gender churns most?
 
 **Data Visualization**
 
